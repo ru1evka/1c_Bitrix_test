@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001665146728';
+$dateexpire = '001665150328';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:4:{s:49:"tbl_iblock_admin_098f6bcd4621d373cade4e832627b4f6";a:3:{s:5:"views";a:1:{s:7:"default";a:3:{s:7:"columns";s:0:"";s:13:"columns_sizes";a:2:{s:6:"expand";i:1;s:7:"columns";a:0:{}}s:15:"sticked_columns";a:0:{}}}s:7:"filters";a:0:{}s:12:"current_view";s:7:"default";}s:43:"tbl_iblock_098f6bcd4621d373cade4e832627b4f6";a:3:{s:5:"views";a:1:{s:7:"default";a:3:{s:7:"columns";s:0:"";s:13:"columns_sizes";a:2:{s:6:"expand";i:1;s:7:"columns";a:0:{}}s:15:"sticked_columns";a:0:{}}}s:7:"filters";a:0:{}s:12:"current_view";s:7:"default";}s:51:"tbl_iblock_section_b927d8aadc4b320baaf99ad9ffc48114";a:3:{s:5:"views";a:1:{s:7:"default";a:3:{s:7:"columns";s:0:"";s:13:"columns_sizes";a:2:{s:6:"expand";i:1;s:7:"columns";a:0:{}}s:15:"sticked_columns";a:0:{}}}s:7:"filters";a:0:{}s:12:"current_view";s:7:"default";}s:51:"tbl_iblock_element_b927d8aadc4b320baaf99ad9ffc48114";a:3:{s:5:"views";a:1:{s:7:"default";a:5:{s:7:"columns";s:0:"";s:13:"columns_sizes";a:2:{s:6:"expand";i:1;s:7:"columns";a:0:{}}s:15:"sticked_columns";a:0:{}s:12:"last_sort_by";s:2:"id";s:15:"last_sort_order";s:3:"asc";}}s:7:"filters";a:0:{}s:12:"current_view";s:7:"default";}}}';
+return true;
+?>
